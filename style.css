@@ -1,0 +1,100 @@
+* {
+    margin: 0rem;
+    padding: 0rem;
+}
+
+#nav-bar {
+    width: 100%;
+    background-color: rgb(33, 136, 179, 255);
+    padding: 1.5rem 0.7rem;
+
+}
+
+#nav-bar .btn-primary {
+    border-radius: 10px;
+    background-color: red;
+}
+
+.dp {
+    width: 15rem;
+    height: 5rem;
+}
+
+#buysell {
+    background-color: #353535;
+    color: white;
+    width: 100%;
+    height: 50rem;
+    
+    
+
+}
+
+.text {
+    padding: 2rem;
+}
+
+.fa-square {
+    background-color: #2db2ea;
+    color: #2db2ea;
+    /* rgba(45, 178, 234, 255); */
+
+    size: 700rem;
+}
+
+#buysell .fname {
+    width: 15rem;
+    border-radius: 0.4rem;
+    height: 3rem;
+}
+
+
+button.btn1.btn-primary {
+    width: 8rem;
+    height: 2.5rem;
+    margin-top: 0.3rem;
+    margin-left: 2rem;
+    border-radius: 0.4rem;
+    color: white;
+    background-color: #06a4e7;
+}
+
+button.btn2.btn-primary {
+    width: 8rem;
+    height: 2.5rem;
+    margin-top: 0.3rem;
+    margin-left: 2rem;
+    border-radius: 0.4rem;
+    color: white;
+    background-color: #e70606;
+}
+
+.dp1 {
+    
+    
+    width: 10rem;
+    margin-left: 31.5rem;
+    margin-top: -7rem;
+}
+
+/* img.dp1{
+    width: 10rem;
+    margin-left: 3.5rem;
+    margin-top: -4rem;
+} */
+
+.gif {
+    
+    
+    text-align: center;
+   
+    margin-top: -2rem;
+}
+
+html,body{
+    padding: 0px;
+    margin: 0px;
+    width: 100%;
+    height: 100%;
+    overflow-x: hidden;
+}
